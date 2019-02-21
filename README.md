@@ -1,6 +1,6 @@
-# test-project
+# A to-do list made in Vue.js
 
-> A Vue.js project
+> Created to familiarize myself with Vue.
 
 ## Build Setup
 
